@@ -13,13 +13,13 @@ of Just-In-Time (JIT) access.
 ### Download the current release
 Download the [current release](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/releases)
 
-How can I contribute to the project
+### How can I contribute to the project
 Found an issue?
 *   [Log it](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/issues)
 
 Want to fix an issue?
 *   Clone the project and submit a pull request
 
-Keep up to date
+### Keep up to date
 *   [Visit my blog](https://tlktechidentitythoughts.wordpress.com)
 *   [Follow me on twitter](https://twitter.com/acceptedIke)![](http://twitter.com/favicon.ico)
