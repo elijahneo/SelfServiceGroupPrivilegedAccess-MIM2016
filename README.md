@@ -1,4 +1,4 @@
-![](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/blob/master/tlktech.png)
+![](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/blob/master/tlktechsmall.jpg)
 # Self Service Group Privileged Access with MIM 2016
 The TLK Technology self service group privileged access tool developed in Microsoft Identity manager (MIM) 2016 is designed to meet the security requirements of companies that want to 
 control and monitor limited access to Active Directory security groups with elevated rights in AD or in applications. It offers complete
