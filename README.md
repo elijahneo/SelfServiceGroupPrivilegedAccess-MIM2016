@@ -10,14 +10,12 @@ of Just-In-Time (JIT) access.
 
 
 
-### Download the module
-
 ### Download the current release
+Download the [current release](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/releases)
+
 How can I contribute to the project
-
 Found an issue?
-
-    Log it
+*   [Log it](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/issues)
 
 Want to fix an issue?
 *   Clone the project and submit a pull request
