@@ -8,7 +8,10 @@ of Just-In-Time (JIT) access.
 
 ### Guides
 
-
+* [Overview of the MIM 2016 PAM tool](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/wiki/Overview-of-the-MIM-2016-Privileged-Access-Management-(PAM)-Tool)
+* [The Business requirements for the TLK JIT tool](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/wiki/The-Business-requirements-for-the-TLK-JIT-tool)
+* [The design and components to meet the requirements](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/wiki/The-design-and-components-to-meet-the-requirements)
+* [The Installation of the tool](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/wiki/The-Installation-of-the-tool)
 
 ### Download the current release
 Download the [current release](https://github.com/myFIMGithub/SelfServiceGroupPrivilegedAccess-MIM2016/releases)
